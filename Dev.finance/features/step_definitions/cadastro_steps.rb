@@ -28,6 +28,7 @@ Quando('submeto o adastro com o seguinte formulario:') do |table|
     find("#amount").set transaction[:value]
     find("#date").set transaction[:date]
 
+
     click_button "Salvar"
 
   end

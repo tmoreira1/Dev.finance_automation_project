@@ -28,16 +28,17 @@ Esquema do Cenario: Tentativa de cadastro de transação
     Dado que acesso o pop up de cadastro de transação.
     Quando submeto o adastro com o seguinte formulario:
 
-    |description         |<value_input> |<date_input>|
-    |<description_input> |450,00        |999         |
+    |description         |value         |date         |
+    |<description_input> |<value_input> |<date_input> |
 
     Então deve ser exibido um pop-up de alerta com o seguinte texto Por favor, preencha todos os campos.
 
     Exemplos:
     |description_input|value_input |date_input|
-    |                 |450,00      |999       |
-    |Qa ninja         |            |999       |
+    |                 |1150,00      |999      |
+    |Qa ninja11       |            |999       |
     |Qa ninja         |450,00      |          |
+    
 
 
 
