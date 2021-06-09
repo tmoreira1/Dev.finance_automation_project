@@ -46,23 +46,10 @@ Para instalar o <nome_do_projeto>, siga estas etapas:
 
 Linux e macOS:
 ```
-<comando_de_instalação>
+< Na pasta raiz do projeto realizar a instalaçao das Ge>
 ```
 
-Windows:
-```
-<comando_de_instalação>
-```
 
-## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
 ## 📫 Contribuindo para <nome_do_projeto>
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
