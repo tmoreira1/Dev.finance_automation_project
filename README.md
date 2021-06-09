@@ -45,8 +45,10 @@ https://developer.android.com/studio/command-line/variables?hl=pt-br
 Para instalar o <nome_do_projeto>, siga estas etapas:
 
 Linux e macOS:
+
+A partir da raiz do projeto
 ```
-< Na pasta raiz do projeto realizar a instalaçao das Ge>
+< $ bundle install> Utilizado para realizar as instalações da Gems
 ```
 
 
