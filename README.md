@@ -45,7 +45,9 @@ A partir da raiz do projeto:
 ```
 < $ bundle install> 
 ```
-Abrir um simulado e ativar o serve Appium
+Ative o Appium serve (variáveis de ambiente JAVA_HOME e ANDROID_HOME podem ser definidas pelo appium serve)
+
+Ative um simulador de dispositivo android (foi utilizado o do android studio)
 
 Para executar a todos os testes do projeto basta executar:
 ```
