@@ -39,21 +39,21 @@ Para instalar o <nome_do_projeto>, siga estas etapas:
 
 Linux e macOS:
 
-Esse projeto possui um Gemfile com as dependências usados para rodar os testes. Primeira passo é fazer a instalação a partir dele:
-
-A partir da raiz do projeto:
+Na raiz do projeto execute o seguinte comando:
 ```
 < $ bundle install> 
 ```
+(Esse comando vai realizar a instalações das gems do projeto instalação)
+
 Ative o Appium serve (variáveis de ambiente JAVA_HOME e ANDROID_HOME podem ser definidas pelo appium serve)
 
 Ative um simulador de dispositivo android (foi utilizado o do android studio)
 
-Para executar a todos os testes do projeto basta executar:
+Para executar teste de regressão execute o seguinte comando:
 ```
 < $ cucumber> 
 ```
-Para visualizar o relatorio allure basta executar:
+Para visualizar o relatorio allure execute o seguinte comando:
 ```
 < $ allure serve logs/> 
 ```
