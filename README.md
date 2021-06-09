@@ -25,10 +25,20 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+
+- Java sdk instalado
+- variáveis de ambiente JAVA_HOME e ANDROID_HOME configuradas
+- Para baixar o jdk8 segue o link:
+
+http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html
+- Como configurar variáveis de ambiente JAVA_HOME e ANDROID_HOME segue o link:
+
+https://developer.android.com/studio/command-line/variables?hl=pt-br
+
+- Homebrew instalado
+- Node JS instalado
+- Appium Server instalado
+- allure report instalado
 
 ## 🚀 Instalando <nome_do_projeto>
 
